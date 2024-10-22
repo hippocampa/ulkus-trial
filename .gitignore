@@ -1,0 +1,95 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# C extensions
+*.c
+*.o
+*.pyd
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+*.log
+*.pot
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+.env/
+
+# Cache and hidden files
+.cache/
+coverage/
+*.cover
+*.log
+*.sqlite3
+*.db
+
+# PyInstaller
+# Usually this folder contains the executable, so it's better to ignore it
+/dist/
+/build/
+
+# TensorFlow, PyTorch, and other deep learning libraries checkpoints
+*.ckpt
+*.h5
+*.pth
+*.pt
+
+# Weights and datasets
+weights/
+*.weights
+data/
+datasets/
+*.tar
+*.tar.gz
+*.zip
+
+# Model output files
+*.onnx
+*.pb
+*.tflite
+*.trt
+
+# Miscellaneous
+*.ipynb
+*.csv
+*.pdf
+
+# MacOS files
+.DS_Store
+
+# Spyder IDE
+.spyderproject
+.spyproject
+
+# PyCharm
+.idea/
+.vscode/
+
+# Test coverage reports
+htmlcov/
+.tox/
+.nox/
+
+# Unit test / coverage results
+.coverage
+*.cover
+*.py,cover
+.hypothesis/
+
+# Other
+*.tmp
+
